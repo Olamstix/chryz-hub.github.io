@@ -22,6 +22,7 @@
  - [Jome Favourite](https://github.com/jomefavourite)
  - [Mercy Harbo](https://github.com/mercyharbo)
  - [Mohammed Kabir Hussaini](https://github.com/lekandev)
+ - [Mobolaji Emmanuel Olamide](https://github.com/Olamstix)
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Sefat Siddiquea Sifa](https://github.com/sifa123)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
